@@ -30,46 +30,46 @@ The goal was to visualize the impact of different factors on delays using **hist
 ## 📊 Visualizations (in analysis order)
 
 ### 1) Scheduled Time Distribution  
-![Histogram Distribution of Schedule Flight Time](images/Histogram Distribution of Schedule Flight Time.png)
+![Histogram Distribution of Schedule Flight Time](images/Histogram%20Distribution%20of%20Schedule%20Flight%20Time.png)
 
 ### 2) Flights per Carrier  
-![Bar Chart No of Flights per Carriers](images/Bar Chart No of Flights per Carriers.png)
+![Bar Chart No of Flights per Carriers](images/Bar%20Chart%20No%20of%20Flights%20per%20Carriers.png)
 
 ### 3) Flight Distribution by Destination  
-![Histogram Flight Distribution by Destination](images/Histogram Flight Distribution by Destination.png)
+![Histogram Flight Distribution by Destination](images/Histogram%20Flight%20Distribution%20by%20Destination.png)
 
 ### 4) Flight Distribution by Origin  
-![Bar Chart Flight Distribution by Origins](images/Bar Chart Flight Distribution by Origins.png)
+![Bar Chart Flight Distribution by Origins](images/Bar%20Chart%20Flight%20Distribution%20by%20Origins.png)
 
 ### 5) Flights Distribution by Weather Condition  
-![Bar Chart Flights Distribution by Weather Condition](images/Bar Chart Flights Distribution by Weather Condition.png)
+![Bar Chart Flights Distribution by Weather Condition](images/Bar%20Chart%20Flights%20Distribution%20by%20Weather%20Condition.png)
 
 ### 6) Flights Distribution by Day of the Week  
-![Histogram Days of the Wek](images/Histogram Days of the Wek.png)
+![Histogram Days of the Wek](images/Histogram%20Days%20of%20the%20Wek.png)
 
 ### 7) Scheduled vs Departure Time (Scatter Plot)  
-![Scatter Plot Schedule vs Departure Time](images/Scatter Plot Schedule vs Departure Time.png)
+![Scatter Plot Schedule vs Departure Time](images/Scatter%20Plot%20Schedule%20vs%20Departure%20Time.png)
 
 ### 8) Delay Distribution by Day of the Month (Box Plot)  
-![Box Plot Delay Distribution by Day of the Month](images/Box Plot Delay Distribution by Day of the Month.png)
+![Box Plot Delay Distribution by Day of the Month](images/Box%20Plot%20Delay%20Distribution%20by%20Day%20of%20the%20Month.png)
 
 ### 9) Flight Delays by Departure Period  
-![Bar Chart Flight Delays by Departure Period](images/Bar Chart Flight Delays by Departure Period.png)
+![Bar Chart Flight Delays by Departure Period](images/Bar%20Chart%20Flight%20Delays%20by%20Departure%20Period.png)
 
 ### 10) Flight Delays by Carrier  
-![Bar Chart Flight Delays by Carrier](images/Bar Chart Flight Delays by Carrier.png)
+![Bar Chart Flight Delays by Carrier](images/Bar%20Chart%20Flight%20Delays%20by%20Carrier.png)
 
 ### 11) Flight Delays by Day of the Week  
-![Bar Chart Flight Delays by Day of the Week](images/Bar Chart Flight Delays by Day of the Week.png)
+![Bar Chart Flight Delays by Day of the Week](images/Bar%20Chart%20Flight%20Delays%20by%20Day%20of%20the%20Week.png)
 
 ### 12) Flight Delays by Weather  
-![Bar Chart Flight Delays by Weather](images/Bar Chart Flight Delays by Weather.png)
+![Bar Chart Flight Delays by Weather](images/Bar%20Chart%20Flight%20Delays%20by%20Weather.png)
 
 ### 13) Flight Delays by Scheduled Time  
-![Histogram Flight Delays by Scheduled Time](images/Histogram Flight Delays by Scheduled Time.png)
+![Histogram Flight Delays by Scheduled Time](images/Histogram%20Flight%20Delays%20by%20Scheduled%20Time.png)
 
 ### 14) Delayed vs On-Time Flights (Pie Chart)  
-![Pie Delayed vs On Time Flights](images/Pie Delayed vs On Time Flights.png)
+![Pie Delayed vs On Time Flights](images/Pie%20Delayed%20vs%20On%20Time%20Flights.png)
 
 ---
 
